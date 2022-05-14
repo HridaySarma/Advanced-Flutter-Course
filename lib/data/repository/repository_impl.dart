@@ -4,8 +4,8 @@ import 'package:advanced_flutter_course/data/network/error_handler.dart';
 import 'package:advanced_flutter_course/data/network/failure.dart';
 import 'package:advanced_flutter_course/data/network/network_info.dart';
 import 'package:advanced_flutter_course/data/request/request.dart';
-import 'package:advanced_flutter_course/domain/model.dart';
-import 'package:advanced_flutter_course/domain/repository.dart';
+import 'package:advanced_flutter_course/domain/model/model.dart';
+import 'package:advanced_flutter_course/domain/repository/repository.dart';
 import 'package:dartz/dartz.dart';
 
 class RepositoryImpl extends Repository {

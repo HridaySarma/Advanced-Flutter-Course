@@ -3,7 +3,7 @@
 import 'dart:async';
 
 import 'package:advanced_flutter_course/base/baseviewmodel.dart';
-import 'package:advanced_flutter_course/domain/model.dart';
+import 'package:advanced_flutter_course/domain/model/model.dart';
 import 'package:advanced_flutter_course/presentation/resources/assets_manager.dart';
 import 'package:advanced_flutter_course/presentation/resources/strings_manager.dart';
 

@@ -2,7 +2,7 @@
 
 import 'package:advanced_flutter_course/app/extensions.dart';
 import 'package:advanced_flutter_course/data/responses/responses.dart';
-import 'package:advanced_flutter_course/domain/model.dart';
+import 'package:advanced_flutter_course/domain/model/model.dart';
 
 const EMPTY = "";
 const ZERO = 0;
