@@ -1,15 +1,13 @@
 import 'package:advanced_flutter_course/base/baseviewmodel.dart';
 
-class LoginViewModel extends BaseViewModel{
+class LoginViewModel extends BaseViewModel {
 
   @override
   void dispose() {
-    // TODO: implement dispose
   }
 
   @override
   void start() {
-    // TODO: implement start
   }
 
 }
